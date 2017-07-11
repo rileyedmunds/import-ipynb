@@ -26,4 +26,4 @@ Note that since every cell in the A.ipynb is executed when you import the the fi
 
 ## Credit
 
-The code within imoprt_ipynb.py comes from ((http://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Importing%20Notebooks.html). I've just packaged it and written instructions on how to use it.
+The code within imoprt_ipynb.py comes from http://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Importing%20Notebooks.html. I've just packaged it and written instructions on how to use it.
